@@ -1,0 +1,69 @@
+{
+    "battle": {
+        "type": "OBJECT",
+        "tag": "",
+        "description": "",
+        "properties": {
+            "type": "OBJECT",
+            "tag": "",
+            "description": "",
+            "properties": {}
+        }
+    },
+    "id": {
+        "type": "STRING",
+        "tag": "",
+        "description": ""
+    },
+    "name": {
+        "type": "STRING",
+        "tag": "",
+        "description": ""
+    },
+    "orientation": {
+        "type": "STRING",
+        "tag": "",
+        "description": ""
+    },
+    "minParticipants": {
+        "type": "INTEGER",
+        "tag": "",
+        "description": ""
+    },
+    "maxParticipants": {
+        "type": "INTEGER",
+        "tag": "",
+        "description": ""
+    },
+    "battleType": {
+        "type": "STRING",
+        "tag": "",
+        "description": ""
+    },
+    "wagerType": {
+        "type": "STRING",
+        "tag": "",
+        "description": ""
+    },
+    "countdown": {
+        "type": "INTEGER",
+        "tag": "",
+        "description": ""
+    },
+    "duration": {
+        "type": "INTEGER",
+        "tag": "",
+        "description": ""
+    },
+    "archetype": {
+        "type": "OBJECT",
+        "tag": "",
+        "description": "",
+        "properties": {}
+    },
+    "iconId": {
+        "type": "STRING",
+        "tag": "",
+        "description": ""
+    }
+}
